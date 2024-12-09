@@ -19,3 +19,12 @@ img {
 #mainNavbar .nav-link:hover {
     color: #A6689C;
 }
+
+#headingGroup span {
+    color: #A6689C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
